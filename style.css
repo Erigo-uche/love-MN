@@ -240,6 +240,7 @@ body {
   min-height: 100vh;
 
   display: flex;
+  flex-direction: column;
   justify-content: center;  /* horizontal center */
   align-items: center;      /* vertical center */
 
@@ -278,5 +279,6 @@ body {
   background-color: #d9534f;
   color: #fff;
 }
+
 
 
